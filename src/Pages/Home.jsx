@@ -44,9 +44,7 @@ const Home = () => {
   return (
     <div>
       <Banner query={query} handleInputChange={handleInputChange} />
-      {/* Render filtered jobs here if needed */}
-      <h1>I am a new studnet
-      </h1>
+      {/* Render filtered jobs here if needed */}\
     </div>
   );
 };
